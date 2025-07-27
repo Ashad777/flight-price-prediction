@@ -38,7 +38,7 @@ The airline industry is highly dynamic, and pricing varies based on multiple fac
 ---
 
 ## 🌐 Live Demo
-[👉 **Click Here to Try the App**](#) *(Will update after deployment)*  
+[👉 **Click Here to Try the App**](https://ashad-k-flight-price-prediction.streamlit.app/)  
 
 ---
 
@@ -60,8 +60,7 @@ The airline industry is highly dynamic, and pricing varies based on multiple fac
 ---
 
 ## 🖼 Screenshots
-*(Add screenshots of your app UI here after deployment)*  
-
+![Flight Price Prediction App](UI_Screenshot.png)
 ---
 
 ## 💡 What I Learned
